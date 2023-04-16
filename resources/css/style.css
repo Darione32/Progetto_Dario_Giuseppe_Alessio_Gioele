@@ -1,0 +1,18 @@
+.bg-image{
+    background-image: url('https://www.osservatore.ch/wp-content/uploads/2021/04/netflix.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.custom-position{
+    position: relative;
+    top: 55%;
+}
+.costum-border{
+    border-bottom: 2px solid red;
+}
+.custom-height{
+    height: 50rem;
+}
+.custom-overflow{
+    overflow: hidden;
+}
